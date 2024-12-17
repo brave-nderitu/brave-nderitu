@@ -8,7 +8,7 @@ I am a certified Web Design Specialist with comprehensive training and practical
 
 - 📘 Currently learning: Programming in C++, Python and JAVA
 - 🛠️ Working on: [Personal Website / Blog](your_website_or_blog_link)
-- ⚡ Check out my [Web Design Specialist Portfolio](https://your-github-username.github.io/your-portfolio)
+- ⚡ Check out my [Web Design Specialist Portfolio](https://brave-nderitu.github.io/portfolio)
 
 ## Tech Stack 💻
 
